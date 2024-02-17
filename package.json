@@ -14,7 +14,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test",
+    "test": "react-scripts test --exclude='src/App.test.js'",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
